@@ -37,9 +37,7 @@ To start using the Online Shopping App, follow these steps:
 
 ## Contact
 
-For any questions or suggestions regarding the Online Shopping App, please feel free to contact us:
-
-- [LinkedIn](#)
-- [Email](#)
+For any questions or suggestions, feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasr-Fahmey/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nasr.fahmey@gmail.com)
 
 <h3 align="center">Thank you for exploring the Online Shopping App!</h3>
