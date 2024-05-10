@@ -21,13 +21,7 @@ The Online Shopping App incorporates the following design patterns to achieve mo
 - **Factory Pattern:** Employed to create objects without exposing the instantiation logic, facilitating the addition of new categories and items.
 - **Singleton Pattern:** Ensures that only one instance of critical classes, such as the shopping cart and user authentication, exists throughout the application lifecycle.
 
-## Project Structure
 
-The project follows a modular structure, with distinct components for user interface, business logic, and data management. Each design pattern is implemented in relevant components to promote code reuse and maintainability.
-
-### UML Class Diagram
-
-[Insert UML Class Diagram Image Here]
 
 ## Getting Started
 
@@ -39,14 +33,7 @@ To start using the Online Shopping App, follow these steps:
 
 3. **Run the App:** Launch the app on a connected device or emulator using `flutter run`.
 
-## Contributors
 
-The Online Shopping App project was developed by the following team members:
-
-- [Member 1 Name](#)
-- [Member 2 Name](#)
-- [Member 3 Name](#)
-- [Member 4 Name](#)
 
 ## Contact
 
