@@ -24,9 +24,9 @@ The Online Shopping App incorporates the following design patterns to achieve mo
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/d160d1c4-fad3-4742-bb64-073a030c2ffc" alt="Screenshot 1"><br>
-  <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/2bb448ea-47e4-4abd-b219-a06c154a3d32" alt="Screenshot 2"><br>
-  <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/b7d1cabd-7736-447d-bed8-fae665bfc7b7" alt="Screenshot 3"><br>
+  <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/d160d1c4-fad3-4742-bb64-073a030c2ffc" alt="Screenshot 1"width="200"><br>
+  <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/2bb448ea-47e4-4abd-b219-a06c154a3d32" alt="Screenshot 2"width="200"><br>
+  <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/b7d1cabd-7736-447d-bed8-fae665bfc7b7" alt="Screenshot 3"width="200"><br>
   <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/01ebc826-06db-4a90-82e0-f939f4422b47" alt="Screenshot 4"><br>
   <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/a78a5b68-4ee5-41d0-b4ae-5aad94f9ff84" alt="Screenshot 5"><br>
   <img src="https://github.com/Ahmed-Nasr-Fahmey/Online-Shopping-App/assets/92389822/7f41910a-69cf-44fe-ba3d-43718f0d2e0c" alt="Screenshot 6"><br>
